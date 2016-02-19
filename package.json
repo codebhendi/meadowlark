@@ -2,7 +2,7 @@
   "name": "meadowlark",
   "version": "1.0.0",
   "description": "A travel website for Meadowlark",
-  "main": "index.js",
+  "main": "meadowlark.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/codebhendi/meadowlark#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
   }
 }
